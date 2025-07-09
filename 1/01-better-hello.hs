@@ -1,4 +1,4 @@
-main :: IO ()
+-- main :: IO ()
 main = putStrLn "Our Haskell, who art in binary,\n\
                 \hallowed be thy type system,\n\
                 \thy monoids come,\n\
